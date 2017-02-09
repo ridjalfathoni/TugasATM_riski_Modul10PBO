@@ -1,10 +1,14 @@
-# Tugas-ATM-Modul-10
+# Tugas ATM Modul 10 PBO
+
+
+###Nama      : Riski Ananda Widiya Putri 
+###Kelas     : XI RPL 5 
+###Absen     : 28 
+###Sekolah   : SMK Telkom Malang
+
 # Screenshoot Aplikasi
-![tugas1](https://cloud.githubusercontent.com/assets/22118129/22746457/4b814890-ee56-11e6-9091-c5b7568e31f2.PNG)
-![tugas2](https://cloud.githubusercontent.com/assets/22118129/22746458/4bdad2f2-ee56-11e6-9841-140c5ae8bff1.PNG)
-![tugas3](https://cloud.githubusercontent.com/assets/22118129/22746459/4c123b8e-ee56-11e6-9806-5b94ea1e8e72.PNG)
-# Identitas
-Nama      : Tri Ratna Putri Chrisdaniar <br>
-Kelas     : XI RPL 2 <br>
-Absen     : 29 <br>
-Sekolah   : SMK Telkom Malang
+[![1.png](https://s23.postimg.org/9cs6zpebf/image.png)](https://postimg.org/image/i7t1a833r/)
+[![2.png](https://s30.postimg.org/8cg8h6gg1/image.png)](https://postimg.org/image/yxircqit9/)
+[![3.png](https://s23.postimg.org/4fy9ju17v/image.png)](https://postimg.org/image/k1fl3sd5z/)
+[![4.png](https://s27.postimg.org/ymbx16dkz/image.png)](https://postimg.org/image/93jko5u0v/)
+[![5.png](https://s30.postimg.org/h1qfwim1d/image.png)](https://postimg.org/image/4zv22dcst/)
